@@ -64,7 +64,7 @@ Voting Members
 
 1. Larry Garfield: Drupal
 
-1. Ivan Habunek: Apache log4php
+jj1. Ivan Habunek: Apache log4php
 
 1. Paul M. Jones: Solar Framework, Aura Project
 
